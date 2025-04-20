@@ -21,6 +21,7 @@ Opening PDF Document: summary_report.pdf by Acme Corp (30 pages)
 ```
 
 ## UML Class Diagram:
+![image](https://github.com/user-attachments/assets/35c6a461-a73e-4639-95b4-3de85e5daef3)
 
 
 ## Output:
